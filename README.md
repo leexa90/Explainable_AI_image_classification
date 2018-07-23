@@ -6,7 +6,7 @@ Summary Slide :
 [picture link](./Summary.png)
 
 Slides for meetup talk Aug 18:
-[pdf link](./Meetup_slides.pdf)
+[pdf link](./presentation/Meetup_slides.pdf)
 
 Links to picture explaining mnist data: 
 [picture link](./Visual.png)
@@ -17,4 +17,6 @@ Run the entire code on the browser (you need access to your google account):
 References :
 
 Paper : A unified approach to explain the output of any machine learning model
+[paper link](./presentation/7062-a-unified-approach-to-interpreting-model-predictions.pdf)
+
 github code link : https://github.com/slundberg/shap
