@@ -8,7 +8,7 @@ Summary Slide :
 Slides for meetup talk Aug 18:
 [pdf link](./presentation/Meetup_slides.pdf)
 
-Links to picture explaining mnist data: 
+Links to picture for Explainable AI: 
 [picture link](./Visual.png)
 
 Run the entire code on the browser (you need access to your google account):
