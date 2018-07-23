@@ -3,10 +3,10 @@
 This work trys to understand shapley values of mnist data using the shapley kernel by Scott lunderburg
 
 Summary Slide :
-[picture link] (./Summary.png)
+[picture link](./Summary.png)
 
-Slides for meetup talk
-[pdf link] (./Meetup_slides.pdf)
+Slides for meetup talk :
+[pdf link](./Meetup_slides.pdf)
 
 Links to picture explaining mnist data: 
 [picture link](./Visual.png)
