@@ -11,6 +11,9 @@ Slides for meetup talk Aug 18:
 Links to picture explaining mnist data: 
 [picture link](./Visual.png)
 
+Run the entire code on the browser:
+[colabs link](https://colab.research.google.com/github/leexa90/Explainable_AI_image_classification/blob/master/colabs_script.ipynb)
+
 References :
 
 Paper : A unified approach to explain the output of any machine learning model
