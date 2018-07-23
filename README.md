@@ -11,7 +11,7 @@ Slides for meetup talk Aug 18:
 Links to picture explaining mnist data: 
 [picture link](./Visual.png)
 
-Run the entire code on the browser:
+Run the entire code on the browser (you need access to your google account):
 [colabs link](https://colab.research.google.com/github/leexa90/Explainable_AI_image_classification/blob/master/colabs_script.ipynb)
 
 References :
