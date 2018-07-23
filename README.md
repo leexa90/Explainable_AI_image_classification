@@ -14,8 +14,7 @@ Links to picture explaining mnist data:
 Run the entire code on the browser (you need access to your google account):
 [colabs link](https://colab.research.google.com/github/leexa90/Explainable_AI_image_classification/blob/master/colabs_script.ipynb)
 
-References :
-
+#### References :
 Paper : A unified approach to explain the output of any machine learning model
 [paper link](./presentation/7062-a-unified-approach-to-interpreting-model-predictions.pdf)
 
