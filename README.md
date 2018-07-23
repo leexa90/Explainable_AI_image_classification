@@ -5,7 +5,7 @@ This work trys to understand shapley values of mnist data using the shapley kern
 Summary Slide :
 [picture link](./Summary.png)
 
-Slides for meetup talk Aug 18:
+Slides for 20 min talk:
 [pdf link](./presentation/Meetup_slides.pdf)
 
 Links to picture for Explainable AI: 
