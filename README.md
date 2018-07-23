@@ -14,4 +14,4 @@ Links to picture explaining mnist data:
 References :
 
 Paper : A unified approach to explain the output of any machine learning model
-link : https://github.com/slundberg/shap
+github code link : https://github.com/slundberg/shap
