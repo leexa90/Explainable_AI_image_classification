@@ -1,6 +1,6 @@
 # Explainable_AI_image_classification
 
-This work trys to understand shapley values of mnist data using the shapley kernel by Scott lunderburg
+Explainable AI : Shapley Values and Concept Activation Vectors
 
 Summary Slide :
 [picture link](./Summary.png)
